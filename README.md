@@ -1,5 +1,4 @@
-# PHISHY-The-Phishing-TooL
-# Phishy
+# Spectre
 A simple program, for simple people, for doing simple social engineering attacks.
 
 ### Requirements
@@ -55,3 +54,8 @@ Clone Facebook by url
 ```sh
 $ python spectre.py -u https://facebook.com/login
 ```
+
+### Disclaimers
+ - Don't abuse this program, stay ethical.
+ - This program will not working on every site.
+ - Google will stop responing for a while if you over use it.
