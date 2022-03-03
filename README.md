@@ -1,4 +1,4 @@
-# Spectre
+# Phishy-The-Phishing-Tool
 A simple program, for simple people, for doing simple social engineering attacks.
 
 ### Requirements
